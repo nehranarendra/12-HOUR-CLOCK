@@ -5,7 +5,7 @@
 //
 // Create Date: 18.04.2023 03:40:40
 // Design Name: 
-// Module Name: 8_BIT_VEDIC_MULTIPLIER
+// Module Name: CLOCK_12HOURS
 //////////////////////////////////////////////////////////////////////////////////
 
 
